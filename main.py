@@ -28,8 +28,6 @@ import random
 print("Welcome to the Rock, Paper, Scissors Game")
 choise = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
 choises = [rock,paper,scissors]
-# print("Welcome to the Rock, Paper, Scissors Game")
-# choise = int(input("What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
 
 c1 = choises[choise]
 print(c1)
